@@ -62,7 +62,7 @@ Assign volunteers and track request status.
 ✨ Responsive Layout  
 ✨ Dashboard System  
 ✨ Real-Time Assignment  
-✨ Hackathon Ready Project
+
 
 ---
 
